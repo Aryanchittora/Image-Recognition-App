@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(lightblue 0%,royalblue 100%);
+    color: crimson;
+}
+
+.heading { 
+    font-variant: small-caps;
+    width: 80%;
+    font-size: 22px;
+}
+
+.objects , #result_object , #result_acuracy {
+    color: steelblue;
+}
+
+#camera , #result {
+    border: 2px groove red;
+    width: 350px;
+    height: 300px;
+}
+
