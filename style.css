@@ -9,7 +9,7 @@ body {
     font-size: 22px;
 }
 
-.objects , #result_object , #result_acuracy {
+.objects {
     color: steelblue;
 }
 
@@ -19,3 +19,6 @@ body {
     height: 300px;
 }
 
+#result_object , #result_acuracy {
+    color: lightgreen;
+}
